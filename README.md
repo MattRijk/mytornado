@@ -1,2 +1,2 @@
 # mytornado
-project - light weight restful api with tornado
+project - lightweight restful api with tornado
